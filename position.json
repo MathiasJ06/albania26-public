@@ -2,9 +2,9 @@
   "type": "Feature",
   "geometry": {
     "type": "Point",
-    "coordinates": [18.76967088333333, 42.42822831666667]
+    "coordinates": [18.74005475, 42.39335625]
   },
   "properties": {
-    "timestamp": "2026-08-09T17:44:18+02:00"
+    "timestamp": "2026-08-09T17:55:48+02:00"
   }
 }
